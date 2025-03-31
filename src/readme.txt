@@ -1,5 +1,5 @@
 This folder contains the source code for the Gunshot Detection System project. It includes the code for the various components of the system, such as the ESP32-based microphone nodes, Raspberry Pi for source localization, and the machine learning model.
-
+(Currently a work in progress)
 Table of Contents
 
     Folder Structure
