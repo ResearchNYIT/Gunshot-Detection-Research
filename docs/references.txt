@@ -1,0 +1,11 @@
+[1] S. Zhou, J. Sun, K. Xu, and G. Wang, "AI-driven data processing and decision optimization in IoT through edge computing and cloud architecture," IEEE Internet of Things Journal, vol. 10, no. 18, pp. 16291–16304, Sept. 2023. DOI: https://doi.org/10.60087/vol2iisue1.p006
+
+[2] A. Bourechak, O. Zedadra, M. N. Kouahla, A. Guerrieri, H. Seridi, and G. Fortino, "At the confluence of artificial intelligence and edge computing in IoT-based applications: A review and new perspectives," IEEE Access, vol. 11, pp. 45569–45602, 2023. doi: https://doi.org/10.3390/s23031639
+
+[3] A. Khanna and S. Kaur, "Internet of Things (IoT), applications and challenges: A comprehensive review," Wireless Personal Communications, vol. 114, no. 2, pp. 1687–1762, Sept. 2020. doi: https://doi.org/10.1007/s11277-020-07446-4
+
+[4] B. Xu, G. Sun, R. Yu, and Z. Yang, "High-accuracy TDOA-based localization without time synchronization," IEEE Transactions on Wireless Communications, vol. 19, no. 3, pp. 2072–2086, Mar. 2020. DOI: 10.1109/TPDS.2012.248
+
+[5] R. B. Calhoun, C. Dunson, M. L. Johnson, S. R. Lamkin, W. R. Lewis, R. L. Showen, M. A. Sompel, and L. P. Wollman, "Precision and accuracy of acoustic gunshot location in an urban environment," The Journal of the Acoustical Society of America, vol. 148, no. 4, pp. 2329–2341, Oct. 2020. doi:  https://doi.org/10.48550/arXiv.2108.07377
+
+[6] C. Mahapatra and A. R. Mohanty, "Optimization of number of microphones and microphone spacing using time delay based multilateration approach for explosive sound source localization," Applied Acoustics, vol. 172, p. 107607, Jan. 2021. doi: https://doi.org/10.1016/j.apacoust.2022.108998
